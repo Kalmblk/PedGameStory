@@ -14,4 +14,5 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/VNCreator/_Demo/Scenes/PlayScene.unity
     guid: 8d66d048c6b5bd045a648e731464ebcc
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: fc54488bbf6c91345833279df4b65e73, type: 2}
